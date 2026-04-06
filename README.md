@@ -173,6 +173,8 @@ prioritize documentation over development.
 - **Blog** — [tingopix.blogspot.com](https://tingopix.blogspot.com)
 - **Reddit** — [r/tingopix](https://www.reddit.com/r/tingopix)
 - **Website** — [tingopix.github.io](https://tingopix.github.io)
+- **Youtube** — [@tingopix](https://www.youtube.com/@Tingopix) 
+- **Instagram** — [@tingopix]([https://www.instagram.com/tingopix/) 
 
 ---
 
