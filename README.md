@@ -154,12 +154,6 @@ color grading software. Bit depth: 12–16 bit.
 | Per-channel, separate captures        | ~16                |
 | Multi-exposure (current, unoptimized) | ~6                 |
 
-#### Build thread
-
-Full technical documentation of the v1 build, including design decisions,
-bugs, and workarounds, is in the Kinograph forum thread:
-[SnailScanToo or 2](https://forums.kinograph.cc/t/snailscantoo-or-2/2548)
-
 ---
 
 ## Status
