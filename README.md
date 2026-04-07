@@ -174,7 +174,7 @@ prioritize documentation over development.
 - **Reddit** — [r/tingopix](https://www.reddit.com/r/tingopix)
 - **Website** — [tingopix.github.io](https://tingopix.github.io)
 - **Youtube** — [@tingopix](https://www.youtube.com/@Tingopix) 
-- **Instagram** — [@tingopix]([https://www.instagram.com/tingopix/) 
+- **Instagram** — [@tingopix](https://www.instagram.com/tingopix/) 
 
 ---
 
