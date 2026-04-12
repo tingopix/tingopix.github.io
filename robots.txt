@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tingopix.github.io/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tingopix",
+    "description": "",
+    "home_page_url": "https://tingopix.github.io",
+    "feed_url": "https://tingopix.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tingopix"
+    },
+    "items": [
+    ]
+}
