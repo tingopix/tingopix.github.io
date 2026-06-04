@@ -16,4 +16,32 @@
 <loc>https://tingopix.github.io/kodak-reels-differences/</loc>
 <lastmod>2026-04-23T08:59:00-04:00</lastmod>
 </url>
+<url>
+<loc>https://tingopix.github.io/multispectrum-a-diy-light-source/</loc>
+<lastmod>2026-06-04T18:52:13-04:00</lastmod>
+<image:image>
+<image:loc>https://tingopix.github.io/media/posts/9/01_led_pcb.png</image:loc>
+<image:title><![CDATA[LEDs PCB]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tingopix.github.io/media/posts/9/02_driver_pcb.png</image:loc>
+<image:title><![CDATA[Driver PCB]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tingopix.github.io/media/posts/9/05_dac_pcb.png</image:loc>
+<image:title><![CDATA[DAC PCB]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tingopix.github.io/media/posts/9/03_pcbs_with_driver.png</image:loc>
+<image:title><![CDATA[LED - Driver PCBs Wiring]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tingopix.github.io/media/posts/9/03_pcbs_with_sphere.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://tingopix.github.io/media/posts/9/04_assembled_sphere.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
 </urlset>
