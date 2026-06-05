@@ -3,7 +3,7 @@
     <title>Tingopix</title>
     <link href="https://tingopix.github.io/feed.xml" rel="self" />
     <link href="https://tingopix.github.io" />
-    <updated>2026-06-04T18:52:13-04:00</updated>
+    <updated>2026-06-05T13:24:21-04:00</updated>
     <author>
         <name>Tingopix</name>
     </author>
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>There is an ongoing debate in the film scanning community about the best illumination strategy. Narrow-band RGB LEDs offer precise spectral separation of film dye layers. Broadband white light provides spectral flexibility, particularly valuable for aged or degraded stock. A growing number of professional and startup scanners are exploring multispectral approaches — illuminating with several discrete wavelengths and treating each as a separate capture. All three camps have merit, and all three involve real trade-offs.</p>
-<p>TingoPix's philosophy has always been to deliver archival-quality results at a fraction of the cost of professional systems, trading budget for speed where necessary. Rather than committing to one illumination paradigm, the goal is to support all of them. This new light source is the hardware that makes that possible.</p>
+<p>Tingopix's philosophy has always been to deliver archival-quality results at a fraction of the cost of professional systems, trading budget for speed where necessary. Rather than committing to one illumination paradigm, the goal is to support all of them. This new light source is the hardware that makes that possible.</p>
 <h3>The Problem: Eight LED Types, One Light Source</h3>
 <figure class="post__image"><img loading="lazy"  src="https://tingopix.github.io/media/posts/9/01_led_pcb.png" alt="LEDs PCB" width="1828" height="1410" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tingopix.github.io/media/posts/9/responsive/01_led_pcb-xs.png 300w ,https://tingopix.github.io/media/posts/9/responsive/01_led_pcb-sm.png 480w ,https://tingopix.github.io/media/posts/9/responsive/01_led_pcb-md.png 768w ,https://tingopix.github.io/media/posts/9/responsive/01_led_pcb-lg.png 1024w ,https://tingopix.github.io/media/posts/9/responsive/01_led_pcb-xl.png 1360w ,https://tingopix.github.io/media/posts/9/responsive/01_led_pcb-2xl.png 1600w"></figure>
 <p>The chosen palette covers eight LED types: one broadband white and seven narrow-band types spanning the spectrum from blue to red. Each of the four LED PCBs carries ten LEDs — two white, two green, and one of each remaining narrow-band type. Electrically, these LEDs share almost nothing: forward voltages and light output vary considerably across the palette. Running them all at a common maximum current requires a driving strategy that can accommodate those differences.</p>
@@ -43,7 +43,7 @@
 <p>The four LED PCBs are evenly spaced around the equator of the sphere, mounted on an octagonal ring using alternating faces. The sphere is a 3D-printed assembly — three parts for the inner sphere in matte white PLA, four for the outer shell and rear mount in black PETG. Testing confirmed that matte white PLA performs comparably to a barium sulfate coating for this application — accessible materials, comparable quality.</p>
 <figure class="post__image"><img loading="lazy"  src="https://tingopix.github.io/media/posts/9/04_assembled_sphere.png" alt="" width="1394" height="1476" sizes="(max-width: 48em) 100vw, 768px" srcset="https://tingopix.github.io/media/posts/9/responsive/04_assembled_sphere-xs.png 300w ,https://tingopix.github.io/media/posts/9/responsive/04_assembled_sphere-sm.png 480w ,https://tingopix.github.io/media/posts/9/responsive/04_assembled_sphere-md.png 768w ,https://tingopix.github.io/media/posts/9/responsive/04_assembled_sphere-lg.png 1024w ,https://tingopix.github.io/media/posts/9/responsive/04_assembled_sphere-xl.png 1360w ,https://tingopix.github.io/media/posts/9/responsive/04_assembled_sphere-2xl.png 1600w"></figure>
 <h3>Looking Forward</h3>
-<p>TingoPix already communicates with this DAC family over I2C, and the existing light chain uses the same components in a white-only configuration. Extending the software to select and combine spectral sources per capture channel is the natural next step.<br>Want to scan with white light? RGB? RGBW? Full multispectral? Each is a legitimate choice depending on the film, the workflow, and the time available. If one has the time but not the budget, this is a DIY option to make it possible.</p>
+<p>Tingopix already communicates with this DAC family over I2C, and the existing light chain uses the same components in a white-only configuration. Extending the software to select and combine spectral sources per capture channel is the natural next step.<br>Want to scan with white light? RGB? RGBW? Full multispectral? Each is a legitimate choice depending on the film, the workflow, and the time available. If one has the time but not the budget, this is a DIY option to make it possible.</p>
             ]]>
         </content>
     </entry>
